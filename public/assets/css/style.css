@@ -19,17 +19,15 @@ li {
 }
 
 .notEaten {
-  display: block;
+  display: inline-block;
   width: 40%;
-  margin: 10px;
-  float: left;
+  margin: 20px;
 }
 
 .eaten {
-  display: block;
+  display: inline-block;
   width: 40%;
-  margin: 10px;
-  float: right;
+  margin: 20px;
 }
 
 .footer {
